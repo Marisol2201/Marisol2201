@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Marisol Ramírez Henao</h1>
+<h1 align="center">Hi 🤗, I'm Marisol Ramírez Henao</h1>
 <h4 align="justify">Software Developer and Agronomist Engineer of critical thinking who loves what do and adapt easily to changes, believe in collaborative work, in expressing the ideas with enthusiasm and appreciating those of other people with respect. Love everything that requires ingenuity and innovation; solving problems with speed, punctuality and precision is the daily challenge and focus. Love: coding, listening to music, drawing, painting, nature, laughing.</h4>
 
 ---
