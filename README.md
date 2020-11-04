@@ -15,9 +15,9 @@
 
 <p align="left">
 <a href="https://es.reactjs.org/" target="blank"><img align="center" src="https://devicon.dev/devicon.git/icons/react/react-original.svg" alt="react" height="70" width="40" /></a>
-<a href="https://aws.amazon.com/es/?nc2=h_lg" target="blank"><img align="center" src="https://futurumresearch.com/wp-content/uploads/2020/01/aws-logo.png" alt="aws" height="50" width="50" /></a>
+<a href="https://aws.amazon.com/es/?nc2=h_lg" target="blank"><img align="center" src="https://futurumresearch.com/wp-content/uploads/2020/01/aws-logo.png" alt="aws" height="50" width="60" /></a>
 <a href="https://kubernetes.io/es/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Kubernetes_logo.svg/1280px-Kubernetes_logo.svg.png" alt="kubernetes" height="30" width="160" /></a>
-<a href="https://www.docker.com/" target="blank"><img align="center" src="https://devicon.dev/devicon.git/icons/docker/docker-original.svg" alt="docker" height="80" width="50" /></a>
+<a href="https://www.docker.com/" target="blank"><img align="center" src="https://devicon.dev/devicon.git/icons/docker/docker-original.svg" alt="docker" height="80" width="60" /></a>
 </p>
 
 ---
