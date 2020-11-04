@@ -3,7 +3,7 @@
 
 ---
 
-👩🏻‍💻 _Work_ 
+👩🏻‍💻 _Apps_ 
 
 <p align="left">
 <a href="http://jolby.me/landing-page/" target="blank"><img align="center" src="https://i.imgur.com/gy2Fg9V.png" alt="Jolby" height="60" width="60" /></a>
