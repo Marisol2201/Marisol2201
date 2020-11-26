@@ -22,14 +22,14 @@
 
 
 <details>
-  <summary><b>✔️ Skills</b></summary>
+  <summary><b>✔️ Skills</b></summary><br>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a></p>
 </details>
 
 
 <details>
   <summary><b>📝 I regulary write articles on</b></summary>
-<p align="left">
+<p align="left"><br>
 <a href="https://www.linkedin.com/in/marisolramirezhenao/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="marisolrhe" height="30" width="105" /></a>
 </p>
 </details>
@@ -37,7 +37,7 @@
 
 <details>
   <summary><b>📫 How to reach me</b></summary>
-<p align="left">
+<p align="left"><br>
 <a href="https://twitter.com/marisolrhe" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="marisolrhe" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/marisolramirezhenao" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="marisolramirezhenao" height="30" width="40" /></a>
 <a href="mailto:solar0122@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="solar0122@gmail.com" height="30" width="40" /></a>
@@ -51,6 +51,6 @@
 
 
 <details>
-<summary><b>✨ Most Used Languages</b></summary>
+<summary><b>✨ Most Used Languages</b></summary><br>
 <img src="https://jf-gh-stats.vercel.app/api/top-langs/?username=Marisol2201&langs_count=10&hide=c&theme=midnight-purple" alt="GitHub Top Languages" align="top"/>
 </details>
