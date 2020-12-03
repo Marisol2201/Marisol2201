@@ -6,6 +6,7 @@
   <summary><b>👩🏻‍💻 Last projects</b></summary>
 <p align="left">
 <a href="http://jolby.me/landing-page/" target="blank"><img align="center" src="https://i.imgur.com/gy2Fg9V.png" alt="Jolby" height="60" width="60" /></a>
+<a href="https://marisol2201.github.io/mywebsite/" target="blank"><img align="center" src="https://i.imgur.com/5tTghxH.png" alt="Jolby" height="50" width="50" /></a>
 </p>
 </details>
 
