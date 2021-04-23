@@ -54,5 +54,5 @@
 
 <details>
 <summary><b>✨ Most Used Languages</b></summary><br>
-<img src="https://jf-gh-stats.vercel.app/api/top-langs/?username=Marisol2201&langs_count=10&hide=html,css&theme=midnight-purple" alt="GitHub Top Languages" align="top"/>
+<img src="https://jf-gh-stats.vercel.app/api/top-langs/?username=Marisol2201&langs_count=10&theme=midnight-purple" alt="GitHub Top Languages" align="top"/>
 </details>
